@@ -1,6 +1,8 @@
 # Привет!👋
+# Hello!👋
 
-## Меня зовут Магомедсолтан, я фронтенд разработчик(в будущем Фуллстек)!
+## Я frontend разработчик!
+## I'm a frontend developer!
 
 ### Стэк:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,6 +20,7 @@
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 ### Связь со мной:
+### Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kenzusik)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mnksoff/)
 [![VK](https://img.shields.io/badge/VK-%0077ff.svg?style=for-the-badge&logo=VK&logoColor=0077ff)](https://vk.com/str1ck3)
