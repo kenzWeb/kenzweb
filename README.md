@@ -1,26 +1,86 @@
-# Привет!👋
-# Hello!👋
+<h1 align="center">👋 Приветствую на моей GitHub странице!</h1>
 
-## Я frontend разработчик!
-## I'm a frontend developer!
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+</p>
 
-### Стэк:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1234567/123456789-12345678-9abc-def0-1234-56789abcdef0.gif" alt="Coding GIF" width="600"/>
+</p>
 
-### Связь со мной:
-### Contact me:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kenzusik)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mnksoff/)
-[![VK](https://img.shields.io/badge/VK-%0077ff.svg?style=for-the-badge&logo=VK&logoColor=0077ff)](https://vk.com/str1ck3)
+## О себе
+Меня зовут **[Ваше Имя]**, и я Frontend разработчик на стеке **React, TypeScript, Next.js, Nest.js**.
+
+### 🌟 Увлечения и опыт:
+- 🎨 Создание удобных и красивых интерфейсов.
+- 🛠️ Оптимизация и построение архитектуры приложений с нуля и по ходу проекта (модульная архитектура, FSD).
+- 🚀 Разработка приложений на **Node.js, Express, NestJS** для создания полноценных бекендов или BFF.
+- ⚛️ Работа с **React** и **Next.js** для создания клиентских и серверных компонентов.
+- 🧠 Оптимизация компонентов с использованием **React.memo, useCallback, useMemo** для повышения производительности.
+- 🔒 Написание безопасной авторизации на **NestJS**.
+
+### 💡 Понимание и подходы:
+- 📏 Важность конвенций и порядка на проектах.
+- 🌐 Полное понимание, как React-код попадает к пользователю.
+- 🔄 Владение подходами **SPA, MAP, SSR, SSG, ISR**.
+
+### 🚀 Командная работа и развитие:
+- 🤝 Опыт работы с командой, используя методологию **CI/CD**.
+- 🏆 Участие в хакатонах.
+- 📚 Постоянное стремление к саморазвитию и изучению новых технологий.
+
+## 🔧 Стек технологий
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/zustand-1c1e21?style=for-the-badge&logo=zustand&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Auth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yandex%20Auth-FFCC00?style=for-the-badge&logo=yandex&logoColor=white"/>
+</p>
+
+### Базы данных
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
+</p>
+
+### UI-киты и компоненты
+<p>
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white"/>
+</p>
+
+### Инструменты разработки
+<p>
+  <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">🎉 Добро пожаловать и приятного вам просмотра!</p>
