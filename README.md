@@ -96,9 +96,3 @@
 </p>
 
 ---
-
-<p align="center">🎉 Спасибо, что заглянули! Удачного вам дня!</p>
-
-<p align="center">
-  📫 Свяжитесь со мной: <a href="https://t.me/kenzusek">@kenzusek</a>
-</p>
