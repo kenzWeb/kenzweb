@@ -1,98 +1,67 @@
-<h1 align="center">Добрый день</h1>
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/80362269263435.5ba64e434f0d6.gif" width="100%" alt="Banner" />
+  
+  <h1 align="center">Добрый день 👋</h1>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>📌 О себе</h2>
+      <p>
+        Frontend-разработчик с фокусом на <b>React экосистему</b>. Создаю интерфейсы, которые не только работают, но и доставляют эстетическое удовольствие.
+      </p>
+      
+      <h3>🌟 Увлечения и опыт</h3>
+      <ul>
+        <li>🎨 Разработка <b>UI/UX</b> ориентированных интерфейсов.</li>
+        <li>🛠️ Архитектура по методологии <b>FSD</b> (Feature-Sliced Design).</li>
+        <li>🚀 Fullstack возможности: <b>BFF</b> на Node.js/NestJS.</li>
+        <li>⚛️ Глубокое понимание <b>SSR, SSG, ISR</b> в Next.js.</li>
+        <li>🧠 Продвинутая оптимизация (memoization, virtualization).</li>
+      </ul>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/1234567/123456789-12345678-9abc-def0-1234-56789abcdef0.gif" alt="Coding GIF" width="600"/>
-</p>
+      <h3>💡 Философия кода</h3>
+      <ul>
+        <li>📏 Чистота кода важнее скорости написания.</li>
+        <li>🌐 Понимание жизненного цикла приложения целиком.</li>
+      </ul>
+    </td>
 
----
-
-## 📌 О себе
-
-Frontend-разработчик с опытом работы на стеке **React, TypeScript, Next.js, Nest.js**.  
-
----
-
-### 🌟 Увлечения и опыт
-
-- 🎨 Разработка удобных и современных интерфейсов.
-- 🛠️ Архитектура приложений с использованием подходов **FSD** и модульного дизайна.
-- 🚀 Создание бекендов и **BFF** на **Node.js**, **Express** и **NestJS**.
-- ⚛️ Работа с клиентскими и серверными компонентами **React** и **Next.js**.
-- 🧠 Оптимизация производительности через **React.memo, useCallback, useMemo**.
-- 🔒 Имплементация безопасной авторизации с **NestJS**.
-
----
-
-### 💡 Подходы и философия
-
-- 📏 Следование конвенциям и поддержание чистоты кода.
-- 🌐 Понимание полного жизненного цикла React-приложений.
-- 🔄 Опыт работы с подходами **SPA, MAP, SSR, SSG, ISR**.
-
----
-
-### 🚀 Командная работа и развитие
-
-- 🤝 Коллаборация с использованием **CI/CD**.
-- 🏆 Участие и победы в хакатонах.
-- 📚 Постоянное изучение новых технологий и трендов.
+    <td width="40%" valign="top" align="center">
+      <br />
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-708d742b-b6ce-46b0-9669-0524cb8975a5.gif" width="100%" alt="Coding Animation" />
+      
+      <br /><br />
+      
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔧 Технологический стек
+<div align="center">
+  <h2>🔧 Технологический стек</h2>
+  <br />
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,redux,html,css,nextjs,vite,figma&theme=dark" alt="Frontend Skills" />
+  </a>
+  <br /><br />
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,mysql&theme=dark" alt="Backend Skills" />
+  </a>
+  <br /><br />
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=materialui,tailwind,git,github,vscode,docker,postman&theme=dark" alt="Tools" />
+  </a>
+</div>
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/zustand-1c1e21?style=for-the-badge&logo=zustand&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
+<br />
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Auth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Yandex%20Auth-FFCC00?style=for-the-badge&logo=yandex&logoColor=white"/>
-</p>
-
-### Базы данных
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
-</p>
-
-### UI-киты и компоненты
-<p>
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white"/>
-</p>
-
-### Инструменты разработки
-<p>
-  <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Github Stats" />
+</div>
