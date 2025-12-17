@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/80362269263435.5ba64e434f0d6.gif" width="100%" alt="Banner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd5YmxzZnF1ZnN5YmxzZnF1ZnN5YmxzZnF1ZnN5YmxzZnF1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LfpjDCLnTeYfu/giphy.gif" width="100%" alt="Cyberpunk Banner" />
+  
   <h1 align="center">Добрый день 👋</h1>
 </div>
 
@@ -28,10 +29,10 @@
 
 <td width="40%" valign="top" align="center">
 <br />
-<img src="https://user-images.githubusercontent.com/74038190/212257460-708d742b-b6ce-46b0-9669-0524cb8975a5.gif" width="100%" alt="Coding Animation" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenzWeb&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" width="100%" />
 
 </td>
 </tr>
@@ -61,5 +62,5 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kenzWeb&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Github Stats" />
 </div>
